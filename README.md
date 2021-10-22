@@ -1,9 +1,6 @@
 # Learning Objectives
 
 ---
-
-Using Express and React, students will demonstrate capability and understanding in building a basic frontend web application connected to a custom backend API, using ElephantSQL as a database host and Prisma as an ORM.
-
 - Use a source code management tool to integrate work in one codebase with multiple contributors
 - Design and build an architecture that has a front-end application consuming data from a database-backed API
 - Explain how data flows through this application architecture
@@ -47,22 +44,3 @@ Using Express and React, students will demonstrate capability and understanding 
 2. Lana, Josh
 3. Bruce, Emmanuel
 4. Rafael, Valentin
-
-# Friday
-
----
-
-- Share project requirements, learning objectives and groups
-- Provide advice on the types of models they could consider for their project
-- Hype them up!
-
-# Monday Morning
-
----
-
-- User stories
-- Model diagrams
-- Route / controller flow diagrams
-- Get GitHub repo's set up
-- Workshop on using git branches / merging as a team (emphasize the importance of pulling master and merging it into their working branch regularly)
-- Go!
