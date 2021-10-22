@@ -39,20 +39,6 @@ Using Express and React, students will demonstrate capability and understanding 
 - Frontend must use `useEffect` and `useState` hooks to load the initial state of the application
 - Frontend must have a filter or search feature that uses a combination of JS logic (e.g. array methods or loops) in a frontend component, and query parameters in the request to filter the displayed data
 
-# Assessment
-
----
-
-- As each student will be creating a data model diagram and a flow chart for the routes / controllers they're responsible for, review these to gauge understanding of the architecture at an individual level
-- Presentations will take place via a recorded Zoom call between the project group and a teacher. Students will demonstrate how their app works from front to back, diving into code more often than user facing pages, and the teacher will ask questions during the process to ensure learning objectives have been met
-- Provide an end-of-project survey to each team to collect feedback on the below points (multiple choice rating TBC with optional additional notes from student):
-    - How did working as a team go overall?
-    - How useful were the daily standups for staying on the same page?
-    - Did they pair program to solve problems, and how useful did they find it if they did?
-    - What did they enjoy most about working as a team?
-    - What did they enjoy least about working as a team?
-    - What would they change to make the next group project better?
-
 # Groups
 
 ---
